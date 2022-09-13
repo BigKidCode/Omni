@@ -4,7 +4,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:yahboomtechnology/pxt-neopixel",
+        "neopixel": "github:lzty634158/pxt-neopixel",
         "ghbit": "github:yahboomtechnology/ghbit",
         "microphone": "*"
     },
